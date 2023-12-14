@@ -1,6 +1,6 @@
 [versions]
 assertj = "3.24.2"
-aws = "2.20.18" # this is in mapping with iceberg repo.
+aws = "2.21.46" # this is in mapping with iceberg repo.
 checkstyle = "10.12.5"
 errorprone = "2.23.0"
 errorproneSlf4j = "0.1.21"
